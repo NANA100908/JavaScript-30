@@ -20,7 +20,7 @@
 </h1>
 <p dir="auto">
     "All results are available on"
-    <a href="git@github.com:NANA100908/JavaScript-30.git" rel="nofollow">
+    <a href="https://git@github.com:NANA100908/JavaScript-30.git" rel="nofollow">
         https://NANA100908.github.io/JavaScript-30/
     </a>
 </p>
