@@ -26,6 +26,9 @@
 </p>
 <ul dir="auto">
     <li>
-        <a href="http://"></a>
+        <a href="https://github.com/NANA100908/JavaScript-30/tree/main/01%20-%20JavaScript%20Drum%20Kit" rel="nofollow">01-Javascript-Drum-Kit</a>
+    </li>
+    <li dir="auto">
+        <a href="http://" rel="nofollow"></a>
     </li>
 </ul>
